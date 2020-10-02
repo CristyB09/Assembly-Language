@@ -1,5 +1,5 @@
 ## Name of Program: MIPS Mini Project - Array Program        Version number: v1	         Date last changed: 05/05/2020
-## Name of Author: Cristian Emanuel Bonte - B00795212
+## Name of Author: Cristian E
 ## Description of Program:
                              # The program will display a Main Menu to the user, ask for an option,
                              # and execute the option that has been chosen by the user,
